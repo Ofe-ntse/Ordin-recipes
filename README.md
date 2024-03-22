@@ -1,1 +1,1 @@
-this project is about recipes and was created using html only 
+this project is about recipes and was created using html.
